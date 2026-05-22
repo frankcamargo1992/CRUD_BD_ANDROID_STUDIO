@@ -8,7 +8,8 @@ Sus funciones principales son:
 * **Leer:** Mostrar una lista de todos los usuarios registrados.
 * **Actualizar:** Editar la información de cualquier usuario existente.
 * **Eliminar:** Borrar usuarios de la base de datos.
-* Incluye una pantalla de inicio (Splash Screen) al abrir la app.
+* ## Splash Screen
+La aplicación incluye una pantalla de carga inicial (Splash Screen) construida de forma nativa con Jetpack Compose. Muestra el ícono de la app centrado durante 3 segundos (`delay(3000)`) antes de redirigir automáticamente a la pantalla principal.
 
 ## Tecnologías utilizadas
 * **Lenguaje:** Kotlin
